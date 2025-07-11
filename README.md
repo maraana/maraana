@@ -37,6 +37,8 @@
 
 ###
 
+![Snake animation](https://github.com/<SEU_USUARIO>/<maraana>/blob/main/dist/github-contribution-grid-snake.svg)
+
 
 
 
