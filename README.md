@@ -1,4 +1,7 @@
 <h2 align="left">Olá 👋! Me nome é Ana Maria</h2>
+###
+
+Sou programadora Front-End.
 
 ###
 
