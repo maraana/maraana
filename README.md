@@ -39,6 +39,8 @@
 
 ###
 
+✨ “Cada linha de código é um passo mais perto dos meus sonhos.”
+
 
 
 
